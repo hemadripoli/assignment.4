@@ -1,0 +1,106 @@
+.color{
+    color:rgb(77, 27, 186);
+    text-align: center;
+    font-size: 40px;
+    
+}
+.box{
+    color: rgb(234, 21, 21);
+    background-color: rgb(47, 164, 227);
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 4px solid rgb(219, 39, 156);
+
+}
+.box1{
+    color:rgb(0, 255, 42);
+    background-color:rgb(213, 135, 18);
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 6px dotted rgb(80, 33, 181);   
+}
+.box2{
+    color:rgb(255, 0, 195);
+    background-color:rgb(11, 223, 46);
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 6px dashed rgb(202, 97, 16);  
+}
+.box3{
+    color:rgb(46, 31, 156);
+    background-color:rgb(255, 47, 186);
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 6px groove rgb(17, 122, 207);  
+}
+.box4{
+    color:rgb(20, 19, 24);
+    background-color:rgb(220, 35, 35);
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 6px ridge rgb(94, 25, 191);  
+}
+.box5{
+    color:rgb(60, 148, 192);
+    background-color:rgba(215, 127, 12, 0.875);
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 6px inset rgba(23, 225, 46, 0.817);  
+}
+.box6{
+    color:blue;
+    background-color:rgb(207, 156, 27);
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 6px outset rgb(42, 8, 179);  
+}
+.box7{
+    color:brown;
+    background-color:rgb(57, 185, 57);
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 6px none rgb(189, 16, 163);  
+}
+.box8{
+    color:rgb(0, 153, 255);
+    background-color:rgb(227, 15, 174);
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 6px double rgb(63, 14, 199);  
+}
